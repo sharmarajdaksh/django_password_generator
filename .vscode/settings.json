@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#3C2A15",
+        "titleBar.activeBackground": "#543A1E",
+        "titleBar.activeForeground": "#FDFAF8"
+    },
+    "python.pythonPath": "/home/sharmarajdaksh/.virtualenvs/hello-django/bin/python"
+}
